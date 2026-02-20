@@ -20,18 +20,14 @@ The flow:
 
 User Input (JSON)
 |
-v
 +-----------------+
 | FastAPI Service |
 +-----------------+
 |
-v
 +-------------------+
 | Hugging Face Model |
 +-------------------+
 |
-v
 Generated LaTeX Resume
 |
-v
 User
